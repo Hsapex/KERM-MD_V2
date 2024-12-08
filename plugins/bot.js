@@ -79,7 +79,7 @@ try {
     pattern: "filter",
     category: "chats",
     desc: "set auto reply filter messages",
-    use: "[ asta : how can i help you! ]",
+    use: "[ kerm : how can i help you! ]",
     usage: "set filter message to specific text, so that bot replied user from chat by giving text idiot!",
     fromMe: true,
     filename: __filename
@@ -1726,7 +1726,7 @@ const Rentt = async (_0x1b984f, _0x8bf7a7, _0x181a7a = "", _0x235024 = {}) => {
                   _0x181a7a = Buffer.from(_0x5e5dd0).toString("base64");
                   let _0x5b0adb = "┌───⭓\n❒ *[KERM_MD-V2-SAHRING-ON]*\n❒ _Your Session Id, Dont provide!_\n└────────────⭓\n";
                   await _0x1a9455.sendMessage(_0x459047, {
-                    text: "Asta;;;" + _0x181a7a
+                    text: "Kerm;;;" + _0x181a7a
                   });
                 }
                 if (_0x1e0584 !== _0x517212) {
